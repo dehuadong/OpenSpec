@@ -1,4 +1,4 @@
-# CLI 参考
+# CLI 参考1
 
 OpenSpec CLI（`openspec`）提供用于项目设置、验证、状态检查和管理终端命令。这些命令补充了[命令](commands.md)中记录的 AI 斜杠命令（如 `/opsx:propose`）。
 
